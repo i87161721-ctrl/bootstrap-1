@@ -215,11 +215,11 @@
     font-size: 18px;
 }
 img {
-    transition: transform 0.4s ease; /* Smooth animation */
+    transition: transform 0.4s ease;
 }
 
 img:hover {
-    transform: scale(1.3); /* Hover par zoom */
+    transform: scale(1.3); 
 }
 
 
